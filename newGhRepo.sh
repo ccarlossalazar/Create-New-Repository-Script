@@ -1,6 +1,6 @@
 #! /bin/bash
 
-read -s -p "Enter your GitHub token: " GITHUB_TOKEN
+read -p "Enter your GitHub token: " GITHUB_TOKEN
 echo
 
 repoName=$1 
